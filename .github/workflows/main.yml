@@ -1,4 +1,4 @@
-name: deploy yamxsakebc
+name: deploy submarinediv
 
 on:
   push:
